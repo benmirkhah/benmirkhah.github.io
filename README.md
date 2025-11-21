@@ -1,7 +1,8 @@
-# benmirkhah.github.io
+# "Hello world"
 
-Being a nerd I just had to have my own https://github.benmirkhah.com
+Being a nerd requires having your own <a href="https://github.benmirkhah.com">github domain</a>
 
-Hashtag <b>street credibility</b>
+It brings street credibility like compiling linux.
 
-Hashtag <b>next level nerd</b>
+<b>#next_level_nerd</b>
+
