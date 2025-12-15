@@ -1,9 +1,9 @@
 # "Hello World"
 
-Being a nerd requires having your own <b><a href="https://github.benmirkhah.com">github subdomain</a></b>.
+Being a real nerd requires having your very own <b>github subdomain</b>.
 
-Like compiling linux, it provides street credibility, glory and pagentry!
+Like compiling linux, it provides nerds with much needed street credibility, glory and pagentry!
 
-While here might as well checkout my <a href="https://github.benmirkhah.com/svgen/">Random SVG Generator</a>.
+Now while I got you here, might as well take a look at my <a href="https://github.benmirkhah.com/svgen/"><b>Parametric SVG Generator</b></a>.
 
-My actual <b><a href="https://github.com/benmirkhah">github profile</a></b> is only half as boring!
+Lastly, my actual <b><a href="https://github.com/benmirkhah">github profile</a></b> is only half as boring!
